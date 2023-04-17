@@ -20,3 +20,15 @@ uninstall your pandas and yfinance
 pip install pandas==1.2.4
 
 pip install yfinance==0.1.66
+
+In DataProcessing:
+
+AllExcelToOne.py:
+
+Add new xlxs by merge all sheet to one and add col ContractName.
+Put all your xlxs you get in the same folder and run py can get one new py
+
+OneExcel.py:
+
+Add new xlxs by merge all sheet to one and add col ContractName.
+Only one xlxs
