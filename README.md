@@ -1,7 +1,7 @@
 # YahooFinanceAutoGetOptions
 Auto get todays() opentions from Yahoo Finance Options Page
 
-Warning::
+<span style="color: red"> Warning: </span>
 
 after 1.2.4 pandas not support to save Excel datetime with timezone
 
@@ -9,7 +9,7 @@ You'll get error:
 
 ValueError: Excel does not support datetimes with timezones. Please ensure that datetimes are timezone unaware before writing to Excel.
 
-Solve::
+<span style="color: green"> Solve: </span>
 
 uninstall your pandas and yfinance
 
