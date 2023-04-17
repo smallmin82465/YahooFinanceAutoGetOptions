@@ -1,8 +1,9 @@
 # YahooFinanceAutoGetOptions
 Auto get todays() opentions from Yahoo Finance Options Page
 
-```diff
--Warning
+```html
+<span style="color: red"> Warning </span>
+
 ```
 
 after 1.2.4 pandas not support to save Excel datetime with timezone
