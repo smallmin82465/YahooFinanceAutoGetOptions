@@ -1,3 +1,12 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
 # YahooFinanceAutoGetOptions
 Auto get todays() opentions from Yahoo Finance Options Page
 
@@ -9,7 +18,7 @@ You'll get error:
 
 ValueError: Excel does not support datetimes with timezones. Please ensure that datetimes are timezone unaware before writing to Excel.
 
-<span style="color: green"> Solve: </span>
++Solve
 
 uninstall your pandas and yfinance
 
