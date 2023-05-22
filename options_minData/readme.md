@@ -1,4 +1,4 @@
-options_minData():
+optionget_min():
 
 The code defines a function called optionget_min that accepts a list of stock symbols as parameters. This function uses the yfinance package to retrieve option data for a specified stock symbol and save it as a CSV file. The specific process is as follows:
 
